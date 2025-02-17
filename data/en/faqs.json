@@ -1,0 +1,57 @@
+[
+    {
+        "question" : "How do I search for properties on Estatein?",
+        "res" : "Learn how to use our user-friendly search tools to find properties that match your criteria.",
+        "link" : "/"
+    },
+    {
+        "question" : "What documents do I need to sell my property through Estatein?",
+        "res" : "Find out about the necessary documentation for listing your property with us.",
+        "link" : "/"
+    },
+    {
+        "question" : "How can I contact an Estatein agent?",
+        "res" : "Discover the different ways you can get in touch with our experienced agents.",
+        "link" : "/"
+    },
+    {
+        "question" : "What is the process for buying a property through Estatein?",
+        "res" : "Understand the step-by-step process of purchasing a property through our platform.",
+        "link" : "/"
+    },
+    {
+        "question" : "Are there any additional fees when buying a property?",
+        "res" : "Learn about any additional costs or fees that may be associated with purchasing a property.",
+        "link" : "/"
+    },
+    {
+        "question" : "How do I schedule a property viewing?",
+        "res" : "Find out how to book an appointment for a viewing of your desired property.",
+        "link" : "/"
+    },
+    {
+        "question" : "Can I list my property for rent through Estatein?",
+        "res" : "Yes, you can list your property for rent. Learn more about the process.",
+        "link" : "/"
+    },
+    {
+        "question" : "How do I update my property listing?",
+        "res" : "Find out how to make changes or update your property details on our website.",
+        "link" : "/"
+    },
+    {
+        "question" : "Is there a mobile app for Estatein?",
+        "res" : "Learn about the availability of Estatein's mobile app for a seamless browsing experience.",
+        "link" : "/"
+    },
+    {
+        "question" : "How can I get an appraisal for my property?",
+        "res" : "Discover the process of getting a professional property appraisal through Estatein.",
+        "link" : "/"
+    },
+    {
+        "question" : "What makes Estatein different from other real estate platforms?",
+        "res" : "Learn about the unique features and advantages of using Estatein for your real estate needs.",
+        "link" : "/"
+    }
+]

@@ -1,0 +1,314 @@
+[
+      {
+        "title": "Seaside Serenity Villa",
+        "description": {
+          "title": "Discover your own piece of paradise with the Seaside Serenity Villa. With an open floor plan, breathtaking ocean views from every room, and direct access to a pristine sandy beach, this property is the epitome of coastal living.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "1,250,000",
+        "images": [
+          "https://downloader.disk.yandex.ru/preview/07943d5679f68e55b99b9f801b2cda52d5ff31f187c2e1568c1e3f60f8e707ae/6763717b/O75z42RDxoJopG5bJ1vexwSU4E7pnamUUz42oWPkyzbW1zz-hDqa_s6t8oKmk0pDQW0hhnlu9wwRwPezw0q19A%3D%3D?uid=0&filename=card-0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Expansive oceanfront terrace for outdoor entertaining",
+          "Gourmet kitchen with top-of-the-line appliances",
+          "Private beach access for morning strolls and sunset views",
+          "Master suite with a spa-inspired bathroom and ocean-facing balcony",
+          "Private garage and ample storage space"
+        ]
+      },
+      {
+        "title": "Urban Chic Loft",
+        "description": {
+          "title": "Experience city living at its finest in this modern Urban Chic Loft. Floor-to-ceiling windows provide stunning cityscape views, while the open-concept layout offers ultimate flexibility and style.",
+          "stats": {
+            "bedrooms": "1",
+            "bathrooms": "2",
+            "area": "126 m²"
+          }
+        },
+        "price": "850,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Open floor plan with modern finishes",
+          "Rooftop pool and fitness center",
+          "Secure underground parking",
+          "Pet-friendly building",
+          "Proximity to top restaurants and cultural attractions"
+        ]
+      },
+      {
+        "title": "Cozy Country Cottage",
+        "description": {
+          "title": "Escape to the charm of the Cozy Country Cottage. This quaint home features a rustic design with modern touches, a beautiful garden, and a peaceful countryside setting.",
+          "stats": {
+            "bedrooms": "3",
+            "bathrooms": "3",
+            "area": "116 m²"
+          }
+        },
+        "price": "650,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Spacious garden with outdoor seating",
+          "Wood-burning fireplace",
+          "Modern kitchen with farmhouse sink",
+          "Quiet rural neighborhood",
+          "Detached garage with storage space"
+        ]
+      },
+      {
+        "title": "Modern Downtown Apartment",
+        "description": {
+          "title": "Live in style in this Modern Downtown Apartment featuring sleek interiors, luxury amenities, and stunning city views from the private balcony.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "550,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "High-speed elevator access",
+          "Concierge services",
+          "Gym and rooftop lounge",
+          "Smart home technology",
+          "Close to public transportation"
+        ]
+      },
+      {
+        "title": "Luxury Mountain Retreat",
+        "description": {
+          "title": "Indulge in the ultimate luxury with this Mountain Retreat. Surrounded by nature, it offers a private spa, outdoor fireplace, and panoramic mountain views.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "2",
+            "area": "350 m²"
+          }
+        },
+        "price": "2,000,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Heated infinity pool",
+          "Home theater and game room",
+          "Private hiking trails",
+          "Wine cellar",
+          "Garage with space for 4 cars"
+        ]
+      },
+      {
+        "title": "Beachfront Studio",
+        "description": {
+          "title": "Relax in this Beachfront Studio with stunning ocean views, direct beach access, and modern minimalist design for ultimate comfort.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "300,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Private balcony overlooking the beach",
+          "Fully equipped kitchenette",
+          "On-site fitness center",
+          "Concierge services",
+          "Beachfront dining options"
+        ]
+      },
+      {
+        "title": "Suburban Family Home",
+        "description": {
+          "title": "Perfect for families, this Suburban Family Home offers a spacious layout, large backyard, and proximity to schools and parks.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "720,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Large backyard with play area",
+          "Modern kitchen with granite countertops",
+          "2-car garage with storage space",
+          "Walking distance to top-rated schools",
+          "Nearby parks and recreational facilities"
+        ]
+      },
+      {
+        "title": "Historic Townhouse",
+        "description": {
+          "title": "Step back in time with this Historic Townhouse featuring elegant architecture, vintage charm, and modern upgrades.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "850,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Original hardwood floors",
+          "Spacious outdoor patio",
+          "Updated kitchen with stainless steel appliances",
+          "Basement with wine cellar",
+          "Near historic district attractions"
+        ]
+      },
+      {
+        "title": "Contemporary Duplex",
+        "description": {
+          "title": "This Contemporary Duplex combines modern design with functionality, featuring two separate living spaces, perfect for multi-family living.",
+          "stats": {
+            "bedrooms": "2",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "1,100,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "2 fully equipped kitchens",
+          "Private outdoor terraces for each unit",
+          "Garage for each unit",
+          "Energy-efficient design",
+          "Close to shopping centers and schools"
+        ]
+      },
+      {
+        "title": "Rustic Lake House",
+        "description": {
+          "title": "Unwind at the Rustic Lake House with a serene lakeside view, cozy interiors, and activities such as fishing and paddleboarding.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "580,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Dock for boat access",
+          "Firepit area by the lake",
+          "Outdoor deck overlooking the water",
+          "Fully furnished with rustic charm",
+          "Close to nature trails and wildlife viewing"
+        ]
+      },
+      {
+        "title": "Industrial Warehouse Conversion",
+        "description": {
+          "title": "This Industrial Warehouse Conversion offers vast open spaces, high ceilings, and a versatile layout for both residential and commercial use.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "900,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Exposed brick walls",
+          "Custom lighting and fixtures",
+          "Home office spaces",
+          "Large workshop area",
+          "On-site parking and storage solutions"
+        ]
+      },
+      {
+        "title": "Tropical Island Bungalow",
+        "description": {
+          "title": "Experience paradise with this Tropical Island Bungalow featuring palm-lined beaches, private pool, and stunning island views.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "650,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Outdoor gazebo with lounge area",
+          "Jacuzzi overlooking the ocean",
+          "Kitchenette with tropical theme",
+          "Private beach access",
+          "Water sports equipment available"
+        ]
+      },
+      {
+        "title": "Suburban Modern Home",
+        "description": {
+          "title": "This Suburban Modern Home features an open-concept design, spacious living areas, and eco-friendly features throughout.",
+          "stats": {
+            "bedrooms": "4",
+            "bathrooms": "3",
+            "area": "186 m²"
+          }
+        },
+        "price": "780,000",
+        "images": [
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+          "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+        ],
+        "amenities": [
+          "Solar panels for energy efficiency",
+          "High-end kitchen appliances",
+          "Large master suite with walk-in closet",
+          "Smart home automation",
+          "2-car garage and additional storage space"
+        ]
+      }
+] 

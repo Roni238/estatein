@@ -1,0 +1,111 @@
+{
+    "locale": "English",
+    "header": {
+      "banner":{
+        "title": "Discover Your Dream Property with Estatein",
+        "link": "Learn More"
+      },
+      "nav-links":{
+        "home": "Home",
+        "about": "About Us",
+        "properties": "Properties",
+        "services": "Services",
+        "contact": "Contact Us"
+      }
+    },
+    "ui":{
+      "input placeholder":{
+        "enter your email": "Enter Your Email"
+      }
+    },
+    "prepositions":{
+      "of": " of"
+    },
+    "footer": {
+      "start explore properties":{
+        "title": "Start Your Real Estate Journey Today",
+        "discription": "Your dream property is just a click away. Whether you're looking for a new home, a strategic investment, or expert real estate advice, Estatein is here to assist you every step of the way. Take the first step towards your real estate goals and explore our available properties or get in touch with our team for personalized assistance.",
+        "cta title": "Explore Properties"
+      },
+      "lists":{
+        "home":{
+          "title": "Home",
+          "hero section": "Hero Section",
+          "features": "Features",
+          "properties": "Properties",
+          "testimonials": "Testimonials",
+          "faqs": "FAQ’s"
+        },
+        "about us":{
+          "title": "About Us",
+          "our story": "Our Story",
+          "our works": "Our Works",
+          "how it works": "How It Works",
+          "our team": "Our Team",
+          "our clients": "Our Clients"
+        },
+        "properties": {
+          "title": "Properties",
+          "portfolio": "Portfolio",
+          "categories": "Categories"
+        },
+        "services": {
+          "title": "Services",
+          "valuation mastery": "Valuation Mastery",
+          "strategic marketing": "Strategic Marketing",
+          "negotiation wizardry": "Negotiation Wizardry",
+          "closing success": "Closing Success",
+          "property management": "Property Management"
+        },
+        "contact us": {
+          "title": "Contact Us",
+          "contact Form": "Contact Form",
+          "our offices": "Our Offices"
+        }
+      },
+      "copywriting": "2023 Estatein. All Rights Reserved.",
+      "terms": "Terms & Conditions"
+    },
+
+
+
+    "pages":{
+      "home":{
+        "introduction":{
+          "title" : "Discover Your Dream \n Property with Estatein",
+          "description": "Your journey to finding the perfect property begins here. \n Explore our listings to find the home that matches your dreams.",
+          "buttons":{
+            "learn more": "Learn More",
+            "browse properties": "Browse Properties"
+          },
+          "stats":{
+            "happy customers" : "Happy Customers",
+            "properties for clients": "Properties For Clients",
+            "years of experience": "Years of Experience"
+          }
+        },
+        "services":{
+          "find your dream home": "Find Your Dream Home",
+          "unlock property value": "Unlock Property Value",
+          "effortless property management": "Effortless Property Management",
+          "smart investments, informed decisions": "Smart Investments, Informed Decisions"
+        },
+        "products":{
+          "title": "Featured Properties",
+          "discription": "Explore our handpicked selection of featured properties. Each listing offers a glimpse into exceptional homes and investments available through Estatein. Click \"View Details\" for more information.",
+          "link-title": "View All Properties"
+        },
+        "reviews":{
+          "title": "What Our Clients Say",
+          "discription": "Read the success stories and heartfelt testimonials from our valued clients. Discover why they chose Estatein for their real estate needs.",
+          "link-title": "View All Testimonials"
+        },
+        "faqs":{
+          "title": "Frequently Asked Questions",
+          "discription": "Find answers to common questions about Estatein's services, property listings, and the real estate process. We're here to provide clarity and assist you every step of the way.",
+          "link-title": "View All FAQ’s"
+        }
+      }
+    }
+}
+  

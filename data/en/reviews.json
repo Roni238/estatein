@@ -1,0 +1,112 @@
+[
+    {
+        "rating": 5,
+        "title": "Exceptional Service!",
+        "comment": "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
+        "author": {
+            "name": "Wade Warren",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "USA, California"
+    },
+    {
+        "rating": 5,
+        "title": "Efficient and Reliable",
+        "comment": "Estatein provided us with top-notch service. They helped us sell our property quickly and at a great price. We couldn't be happier with the results.",
+        "author": {
+            "name": "Emelie Thomson",
+            "ava": "https://img.freepik.com/free-photo/portrait-confident-smiling-young-woman-cross-arms-chest-smiles-looks-with-determines-self-assured-expression-standing-white-background_176420-46261.jpg?t=st=1737113733~exp=1737117333~hmac=7857003a832fb85e4623784f9a1b8bb24e75f18a7c5f0825cb332f0cc5b0619a&w=1380"
+        },
+        "location": "USA, Florida"
+    },
+    {
+        "rating": 5,
+        "title": "Trusted Advisors",
+        "comment": "The Estatein team guided us through the entire buying process. Their knowledge and commitment to our needs were impressive. Thank you for your support!",
+        "author": {
+            "name": "John Mans",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "USA, Nevada"
+    },
+    {
+        "rating": 5,
+        "title": "Excellent Customer Support",
+        "comment": "The support we received from Estatein was amazing. Any questions we had were answered promptly, and they made sure the whole process went smoothly.",
+        "author": {
+            "name": "Lucas King",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "USA, Texas"
+    },
+    {
+        "rating": 5,
+        "title": "Smooth Transaction",
+        "comment": "We were impressed with how smoothly everything went. From the first meeting to closing the deal, Estatein took care of everything. Highly recommended!",
+        "author": {
+            "name": "Rachel Adams",
+            "ava": "https://img.freepik.com/free-photo/portrait-young-attractive-businesswoman-smiling-against-blue-background_1157-31891.jpg?w=1380"
+        },
+        "location": "USA, Arizona"
+    },
+    {
+        "rating": 5,
+        "title": "Professional and Knowledgeable",
+        "comment": "Estatein’s team was very knowledgeable about the local market. They helped us find a home that matched all our criteria. It was a pleasure working with them.",
+        "author": {
+            "name": "Dylan Brooks",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "USA, Oregon"
+    },
+    {
+        "rating": 5,
+        "title": "Top-notch Real Estate Service",
+        "comment": "Estatein made buying our first home an easy and stress-free experience. They were with us every step of the way and offered great advice. We're thrilled with our new place!",
+        "author": {
+            "name": "Olivia Thomas",
+            "ava": "https://img.freepik.com/free-photo/young-woman-smiling-studio-background_23-2149135383.jpg?w=1380"
+        },
+        "location": "USA, New York"
+    },
+    {
+        "rating": 5,
+        "title": "Highly Recommend Estatein!",
+        "comment": "The service from Estatein exceeded our expectations. They helped us buy our home with ease, and we are so happy with the property. I highly recommend them!",
+        "author": {
+            "name": "Benjamin Carter",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "USA, Washington"
+    },
+    {
+        "rating": 5,
+        "title": "Fantastic Experience",
+        "comment": "Working with Estatein was a wonderful experience. They are efficient, professional, and truly care about their clients. We would definitely work with them again.",
+        "author": {
+            "name": "Sophia Miller",
+            "ava": "https://img.freepik.com/free-photo/young-woman-smiling_1157-16279.jpg?w=1380"
+        },
+        "location": "USA, Michigan"
+    },
+    {
+        "rating": 5,
+        "title": "Reliable and Trustworthy",
+        "comment": "Estatein made the process of selling our home easy and stress-free. Their team was reliable, professional, and provided excellent guidance throughout.",
+        "author": {
+            "name": "Samuel Green",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "USA, Georgia"
+    },
+    {
+        "rating": 5,
+        "title": "Great Experience All Around",
+        "comment": "From start to finish, Estatein helped us every step of the way. We couldn't be more pleased with the service and the property we found. Highly recommend!",
+        "author": {
+            "name": "Lily Taylor",
+            "ava": "https://img.freepik.com/free-photo/young-woman-sitting-office-desk-smiling-holding-smartphone_23-2149135383.jpg?w=1380"
+        },
+        "location": "USA, Illinois"
+    }
+]

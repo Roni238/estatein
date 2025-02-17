@@ -1,0 +1,112 @@
+[
+    {
+        "rating": 5,
+        "title": "Выдатнае абслугоўванне!",
+        "comment": "Наш досвед з Estatein быў выдатным. Прысвячэнне і прафесіяналізм іх каманды зрабілі пошук нашага дома мары лёгкім і прыемным. Катэгарычна рэкамендуем!",
+        "author": {
+            "name": "Уэйд Уоррен",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "ЗША, Каліфорнія"
+    },
+    {
+        "rating": 5,
+        "title": "Эфектыўна і надзейна",
+        "comment": "Estatein прадставіў нам першакачасовае абслугоўванне. Яны дапамаглі нам хутка прадаць нашу маёмасць па выдатнай цане. Мы не можам быць больш задаволены вынікамі.",
+        "author": {
+            "name": "Эмелі Томсон",
+            "ava": "https://img.freepik.com/free-photo/portrait-confident-smiling-young-woman-cross-arms-chest-smiles-looks-with-determines-self-assured-expression-standing-white-background_176420-46261.jpg?t=st=1737113733~exp=1737117333~hmac=7857003a832fb85e4623784f9a1b8bb24e75f18a7c5f0825cb332f0cc5b0619a&w=1380"
+        },
+        "location": "ЗША, Фларыда"
+    },
+    {
+        "rating": 5,
+        "title": "Надзейныя кансультанты",
+        "comment": "Каманда Estatein правяла нас праз увесь працэс пакупкі. Іх веды і адданасць нашым патрэбам былі ўражлівымі. Дзякуй за вашу падтрымку!",
+        "author": {
+            "name": "Джон Мэнс",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "ЗША, Невада"
+    },
+    {
+        "rating": 5,
+        "title": "Выдатная падтрымка кліентаў",
+        "comment": "Падтрымка, якую мы атрымалі ад Estatein, была дзівоснай. Усе нашы пытанні былі хутка вырашаны, і яны паклапаціліся пра тое, каб увесь працэс прайшоў без праблем.",
+        "author": {
+            "name": "Лукас Кінг",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "ЗША, Тэхас"
+    },
+    {
+        "rating": 5,
+        "title": "Лёгкая здзелка",
+        "comment": "Мы былі ўражаны тым, як усё прайшло гладка. З першай сустрэчы да заключэння здзелкі Estatein паклапаціўся аб усім. Катэгарычна рэкамендуем!",
+        "author": {
+            "name": "Рэйчэл Адамс",
+            "ava": "https://img.freepik.com/free-photo/portrait-young-attractive-businesswoman-smiling-against-blue-background_1157-31891.jpg?w=1380"
+        },
+        "location": "ЗША, Арізона"
+    },
+    {
+        "rating": 5,
+        "title": "Прафесійна і з ведамі",
+        "comment": "Каманда Estatein была вельмі ўведамлена аб мясцовым рынку. Яны дапамаглі нам знайсці дом, які адпавядаў усім нашым крытэрыям. Было прыемна працаваць з імі.",
+        "author": {
+            "name": "Дылан Брукс",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "ЗША, Арэгон"
+    },
+    {
+        "rating": 5,
+        "title": "Лепшае абслугоўванне ў нерухомасці",
+        "comment": "Estatein зрабіў куплю нашага першага дому лёгкім і безклапотным працэсам. Яны былі з намі на кожным кроку і далі выдатныя парады. Мы ў захапленні ад нашага новага дома!",
+        "author": {
+            "name": "Алівія Томас",
+            "ava": "https://img.freepik.com/free-photo/young-woman-smiling-studio-background_23-2149135383.jpg?w=1380"
+        },
+        "location": "ЗША, Нью-Ёрк"
+    },
+    {
+        "rating": 5,
+        "title": "Вельмі рэкамендую Estatein!",
+        "comment": "Абслугоўванне ад Estatein перавысіла ўсе нашы чаканні. Яны дапамаглі нам купіць дом з лёгкасцю, і мы вельмі задаволены нашай маёмасцю. Я настойліва рэкамендую іх!",
+        "author": {
+            "name": "Бенджамін Картер",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "ЗША, Вашынгтон"
+    },
+    {
+        "rating": 5,
+        "title": "Неверагодны досвед",
+        "comment": "Работа з Estatein была цудоўным досведам. Яны эфектыўныя, прафесійныя і сапраўды клапоцяцца пра сваіх кліентаў. Мы абавязкова будзем працаваць з імі зноў.",
+        "author": {
+            "name": "Софія Мілер",
+            "ava": "https://img.freepik.com/free-photo/young-woman-smiling_1157-16279.jpg?w=1380"
+        },
+        "location": "ЗША, Мічыган"
+    },
+    {
+        "rating": 5,
+        "title": "Надзейна і варта даверу",
+        "comment": "Estatein зрабіў працэс продажу нашага дому лёгкім і без стрэсу. Іх каманда была надзейнай, прафесійнай і прадаставіла выдатнае кіраўніцтва на працягу ўсяго працэсу.",
+        "author": {
+            "name": "Самуэль Грын",
+            "ava": "https://avatars.mds.yandex.net/get-ydo/11374192/2a0000018cee668a26ae9b0817701b86e30b/diploma"
+        },
+        "location": "ЗША, Джорджыя"
+    },
+    {
+        "rating": 5,
+        "title": "Выдатны досвед па ўсіх напрамках",
+        "comment": "Ад пачатку да канца Estatein дапамог нам на кожным кроку. Мы не маглі б быць больш задаволены абслугоўваннем і знойдзенай маёмасцю. Катэгарычна рэкамендуем!",
+        "author": {
+            "name": "Лілі Тэйлар",
+            "ava": "https://img.freepik.com/free-photo/young-woman-sitting-office-desk-smiling-holding-smartphone_23-2149135383.jpg?w=1380"
+        },
+        "location": "ЗША, Ілінойс"
+    }
+]

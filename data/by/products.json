@@ -1,0 +1,314 @@
+[
+  {
+    "title": "Віла Seaside Serenity",
+    "description": {
+      "title": "Адкрыйте для сабе сваё ўласнае куточак раю з вілай Seaside Serenity. З адкрытой планавкай, захопляючымі паглядамі на акуян з кожнай кімнаты і прыямым доступам да няперапачанага пясчанага пляжы, гэта жылішча — воплоценне наречнай жыцця.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "1 250 000",
+    "images": [
+      "https://downloader.disk.yandex.ru/preview/07943d5679f68e55b99b9f801b2cda52d5ff31f187c2e1568c1e3f60f8e707ae/6763717b/O75z42RDxoJopG5bJ1vexwSU4E7pnamUUz42oWPkyzbW1zz-hDqa_s6t8oKmk0pDQW0hhnlu9wwRwPezw0q19A%3D%3D?uid=0&filename=card-0.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Прасторная тераса з паглядам на акуян для адпачынку на свежым поветры",
+      "Гурманская кухня з выsoкачайленай тэхнікай",
+      "Частны доступ да пляжу для ранічных сплывоў і паражвання за заходам сонца",
+      "Сют з ванную, узмаўленай спа, і балконам з паглядам на акуян",
+      "Частны гараж і вялікае прастора для храненні"
+    ]
+  },
+  {
+    "title": "Лафт Urban Chic",
+    "description": {
+      "title": "Пачуліце горадскую жыццё на найвышэйшым узроўні ў гэтым сучасным лафце Urban Chic. Панарамныя акна ад палаты да ступкі прыстаўляюць захопляючы пагляд на горадскі пейзаж, а адкрыта планавка прынісля максімальную гібрыгу і стыль.",
+      "stats": {
+        "bedrooms": "1",
+        "bathrooms": "2",
+        "area": "126 м²"
+      }
+    },
+    "price": "850 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Адкрыта планавка з сучаснымі аздобленнямі",
+      "Басейн на крыцы і фітнес-центр",
+      "Безпекны падземны паркінг",
+      "Здабыццё, дружыльнае да цвяртаў",
+      "Блізкасць да найлепшых рестораноў і культурных месц"
+    ]
+  },
+  {
+    "title": "Уютны загародны катэдж",
+    "description": {
+      "title": "Упаўніцеся чармаўцам уютнага загароднага катэджу. Гэты чаруючы дом спалучвае вёскае стылістаіку з сучаснымі элементамі, красіўнай садавай зоны і спакоем сельскай местнасці.",
+      "stats": {
+        "bedrooms": "3",
+        "bathrooms": "3",
+        "area": "116 м²"
+      }
+    },
+    "price": "650 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Прасторны сад з месцам для адпачынку на свежым поветры",
+      "Камін на дрэвах",
+      "Сучасная кухня з ракавіной у фермерскім стыле",
+      "Тыхая вёскае месca",
+      "Асобны гараж з кладовай камнатай"
+    ]
+  },
+  {
+    "title": "Сучасныя апартаменты",
+    "description": {
+      "title": "Жывіце зі стылем у гэтых сучасных апартаментах ў цэнтры горада з элегантнымі інтэр'ерамі, роскошнымі камфоркамі і захопляючымі паглядамі на горад з частнага балкона.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "550 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Высокаскороцтавы доступ на ліфце",
+      "Кансьерж-сервісы",
+      "Трэнажарная зала і лаундж на крыцы",
+      "Тэхналогія ўмнага дому",
+      "Блізкасць да гурбільнага транспорту"
+    ]
+  },
+  {
+    "title": "Раскошнае гарнае ўбежышча",
+    "description": {
+      "title": "Насладзіцеся найвышэйшай раскошчу ў гэтым гарным ўбежышчы. У акружэнні прыроды, яно прапануе частны спа, вулічны камін і панарамныя пагляды на горы.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "2",
+        "area": "350 м²"
+      }
+    },
+    "price": "2 000 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Падгрэўаемы басейн з бесканцовым краем",
+      "Дамашні кінатэатр і гральня камната",
+      "Частныя турыстычныя шляхі",
+      "Вінны падвал",
+      "Гараж на 4 аўтамабілі"
+    ]
+  },
+  {
+    "title": "Студыя ў пляжу",
+    "description": {
+      "title": "Раслабцеся ў гэтай студыі ў пляжу з захопляючымі паглядамі на акуян, прыямым выходам да пляжу і сучасным мінімалістычным дизайном для максімальнага камфорту.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "300 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Частны балкон з паглядам на пляж",
+      "Цалкам абсталяваная міні-кухня",
+      "Фітнес-центр на тэрыторыі",
+      "Сервісы кансьержа",
+      "Рэстараны на беразе моря"
+    ]
+  },
+  {
+    "title": "Прыгорадны дом для сям'і",
+    "description": {
+      "title": "Ідэальна для сям'і: гэты pryгoрадны дом прапануе прасторную планавку, вялікі двор і блізкасць да школ і паркоў.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "720 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Вялікі двор з граевой зоны",
+      "Сучасная кухня з гранітнымі столаплікамі",
+      "Гараж на 2 машины з месцам для храненні",
+      "У пешай доступнасці ад школ з высокім рангам",
+      "Рыздам з паркамі і зонамі адпачынку"
+    ]
+  },
+  {
+    "title": "Істарычны таунхаус",
+    "description": {
+      "title": "Перанесіцеся ў прашлое з гэтым істарычным таунхаусам, які спалучае элегантную архітектуру, вінтажны шарм і сучасныя удосконаленні.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "850 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Арыгінальныя дрэваляныя палы",
+      "Прасторная адкрыта тераса",
+      "Абнавленая кухня з нержавеючай сталлю",
+      "Падвал з вінным падвалам",
+      "Рыздам з істарычнымі даступамі"
+    ]
+  },
+  {
+    "title": "Сучасны дуплекс",
+    "description": {
+      "title": "Гэты сучасны дуплекс спалучае ў сабе сучасны дизайн і функцыональнасць, прапануючы два адначныя жылішчныя памеры, ідэальнай падходзячыя для многоквартирнага жыцця.",
+      "stats": {
+        "bedrooms": "2",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "1 100 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "2 цалкам абсталяваныя кухні",
+      "Прыватныя адкрытыя терасы для кожнага блока",
+      "Гараж для кожнага блока",
+      "Энергэфектыўны дизайн",
+      "Рыздам з таргавымі цэнtramі і школамі"
+    ]
+  },
+  {
+    "title": "Рустыкальны дом у азера",
+    "description": {
+      "title": "Адпачыніцеся ў рустыкальному дому ў азера з спакоючым паглядам на воду, ўютным інтэр'ерам і магчымасцю займаться рыбалкай і падлбордынгам.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "580 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Прычал для доступу да чалны",
+      "Зона з кострышчам у азера",
+      "Адкрыта тераса з паглядам на воду",
+      "Цалкам мебліраваны ў рустыкальному стыле",
+      "Рыздам з прыроднымі шляхамі і месцамі для паражвання за дзікай прыродай"
+    ]
+  },
+  {
+    "title": "Промысловы склад",
+    "description": {
+      "title": "Гэты пераўтвараны промысловы склад прапануе прасторныя адкрытыя прасторы, высоцкія ступкі і універсальную планавку для выкарыстання як у жылых, так і ў камерыяльных цэлях.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "900 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Адкрытыя цэгловыя стены",
+      "Індывідуальнае салёнае і светальнікі",
+      "Кабінеты для працы з дому",
+      "Вялікая мастарская",
+      "Парканка і рашэнні для храненні на тэрыторыі"
+    ]
+  },
+  {
+    "title": "Тропічнае бунгало на астраве",
+    "description": {
+      "title": "Упаўніцеся раём з гэтым тропічным бунгалам на астраве, акружаным пальмамі, з лічным басейnam і вялічыжнымі паглядамі.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "650 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Адкрыта беседка з зонай адпачынку",
+      "Джакуці з паглядам на акуян",
+      "Міні-кухня ў тропічным стыле",
+      "Прыямой доступ да пляжу",
+      "Абсталяванне для ваодных видоў спорту"
+    ]
+  },
+  {
+    "title": "Сучасны pryгoрадны дом",
+    "description": {
+      "title": "Гэты сучасны pryгoрадны дом выдзеліцца адкрыйтой планавкай, прасторнымі жылымі зонамі і экалагічнымі рашэнні.",
+      "stats": {
+        "bedrooms": "4",
+        "bathrooms": "3",
+        "area": "186 м²"
+      }
+    },
+    "price": "780 000",
+    "images": [
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200",
+      "https://avatars.dzeninfra.ru/get-zen_doc/5222751/pub_6281dcb7f8c8a663229aad93_6281dcf046fad66b69b350a9/scale_1200"
+    ],
+    "amenities": [
+      "Салярныя панэлі для энергасберагання",
+      "Кухонная тэхніка прэміум-класа",
+      "Вялікая голоўная спаленя з гардаробнай",
+      "Умны дом з аўтаматызацыяй",
+      "Гараж на 2 машины і дадатковая месца для храненні"
+    ]
+  }
+]

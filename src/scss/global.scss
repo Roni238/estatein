@@ -1,0 +1,134 @@
+@use "@/scss/_variables.scss" as *;
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'proxima_nova_condensed';
+    src: url('@/assets/fonts/proxima_nova_condensed_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Urbanist';
+    src: url('@/assets/fonts/Urbanist-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@layer components {
+    .highlighted-link {
+        @apply px-5 py-3 inline-flex items-center rounded-md border bg-gray-8 border-gray-15 text-white ;
+    }
+    .cta-link {
+        @apply inline-flex justify-center items-center rounded-md px-5 py-3 text-white bg-purple-60 ;
+    }
+    .gray-card {
+        @apply rounded-xl px-5 py-3 text-white bg-gray-10 border border-gray-15 ;
+    }
+    .item-lists {
+        @apply h-full border border-gray-15 rounded-xl p-6 xl:p-8 2xl:p-10
+    }
+}
+
+* {
+    font-family: $main-font;
+}
+
+body{
+    background-color: $gray-08;
+}
+input{
+    font-size: $p-large;
+    &::placeholder{
+        font-size: $p-large;
+    }
+}
+
+p{
+    font-size: $p-small;
+    color: $gray-60;
+    line-height: 150%;
+}
+
+li{
+    font-size: $p-small;
+    color: white;
+}
+
+span{
+    font-size: $p-small;
+    color: $absolute-white;
+    line-height: 150%;
+}
+a{
+    font-size: $p-small;
+    color: $absolute-white;
+    line-height: 150%;
+}
+h1 {
+    font-size: $h1-small;
+    line-height: 120%;
+    color: $absolute-white;
+}
+h2 {
+    font-size: $h2-small;
+    line-height: 110%;
+    color: $absolute-white;
+}
+h3 {
+    font-size: $h3-small;
+    line-height: 150%;
+    color: $absolute-white;
+}
+
+@mixin laptop {
+    @media (min-width: 1280px) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media (min-width: 1596px) {
+        @content;
+    }
+}
+
+@include laptop {
+    p, li {
+        font-size: $p-medium;
+    }
+    h1 {
+        font-size: $h1-medium;
+    }
+    h2 {
+        font-size: $h2-medium;
+    }
+    h3 {
+        font-size: $h3-medium;
+    }
+    
+}
+
+@include desktop {
+    span, a, li, p {
+        font-size: $p-large;
+    }
+    h1 {
+        font-size: $h1-large;
+    }
+    h2 {
+        font-size: $h2-large;
+    }
+    h3 {
+        font-size: $h3-large;
+    }
+    .cta-link{
+        padding: 18px 24px;
+    }
+    .gray-card{
+        padding: 18px 24px;
+    }
+}
